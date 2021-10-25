@@ -21,7 +21,7 @@ body {
     color: #fff;
     line-height: 65px;
     text-align: center;
-    background: #333;
+    background: rgb(65, 67, 163);
     font-size: 25px;
     font-weight: 500;
     border-radius: 10px 10px 0 0;
@@ -47,8 +47,8 @@ body {
 #option-2:checked ~ .option-2,
 #option-3:checked ~ .option-3,
 #option-4:checked ~ .option-4 {
-    background: #333;
-    border-color: #333;
+    background: rgb(65, 67, 163);
+    border-color: rgb(65, 67, 163);
 }
 .wrapper .box label .dot {
     height: 20px;
